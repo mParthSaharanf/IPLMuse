@@ -6,7 +6,8 @@ A natural language IPL cricket stats engine. Ask questions in plain English and 
 
 ## Demo
 
-![Dashboard](https://your-screenshot-url)
+![Dashboard]<img width="1920" height="825" alt="image" src="https://github.com/user-attachments/assets/179900ba-c96d-4505-ba10-5fc7f8ed714c" />
+
 
 ## Features
 
