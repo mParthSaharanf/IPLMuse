@@ -1,0 +1,8 @@
+ipl_json/
+tests/*.json
+.env
+venv/
+__pycache__/
+*.pyc
+debug.log
+*.egg-info/
