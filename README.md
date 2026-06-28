@@ -11,12 +11,12 @@ Dashboard <img width="1920" height="825" alt="image" src="https://github.com/use
 
 ## Features
 
-- 🔐 JWT Authentication (register, login, protected routes)
-- 💬 Natural language query parsing via Ollama
-- 🏏 15+ cricket metrics (batting average, economy rate, centuries, etc.)
-- 📜 Query history per user
-- ⭐ Save favorite queries
-- ⚡ Fast fuzzy player name matching with RapidFuzz
+- JWT Authentication (register, login, protected routes)
+- Natural language query parsing via Ollama
+- 15+ cricket metrics (batting average, economy rate, centuries, etc.)
+- Query history per user
+- Save favorite queries
+- Fast fuzzy player name matching with RapidFuzz
 
 ## Tech Stack
 
@@ -64,8 +64,7 @@ Ball-by-ball IPL data provided by [Cricsheet](https://cricsheet.org) — free, o
 - [ ] Switch from local Ollama to Groq API for cloud deployment
 - [ ] Deploy backend on Railway/Render
 - [ ] Deploy frontend on Vercel  
-- [ ] Live IPL 2026 data updates
+- [ ] Live IPL data updates
 - [ ] WhatsApp bot integration
-- [ ] Fantasy IPL team suggestions ("Should I pick Gill or Warner?")
 - [ ] Player comparison ("Compare Kohli vs Rohit in powerplay")
 - [ ] Team analytics dashboard
